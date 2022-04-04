@@ -1,5 +1,5 @@
 ### Hello 
-My nickname is Dark Artistry, nice to meet you and welcome to my git page.
+My nickname is Dark Artistry, welcome to my git page.
 
 ![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/xLgAlDXdTCg.jpg)
 <!--
