@@ -1,7 +1,7 @@
 ### Hello 
 My nickname is Dark Artistry, welcome to my git page.
 
-![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/xLgAlDXdTCg.png)
+![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/xLgAlDXdTCg.jpg)
 <!--
 **DarkArtistryGH/DarkArtistryGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
