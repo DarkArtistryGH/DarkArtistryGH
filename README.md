@@ -1,5 +1,5 @@
 ### Hello 
-My name is Dark Artistry, aka Caera, welcome to my git page.
+My name is Dark Artistry, aka ``Caera``, welcome to my git page.
 
 ![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/xLgAlDXdTCg1.png)
 <!--
