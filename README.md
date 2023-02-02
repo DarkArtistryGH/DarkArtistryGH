@@ -1,6 +1,10 @@
 ### Hello 
 My name is Dark Artistry, aka ``Caera``, welcome to my git page.
 
+<a href="https://steamcommunity.com/id/Dark_Artistry/">
+  <img align="left" alt="Dark Artistry | Steam" width="22px" src="https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/Steam.ico" />
+</a>
+
 ![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/64959545_p1_master1200.png)
 <!--
 **DarkArtistryGH/DarkArtistryGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
