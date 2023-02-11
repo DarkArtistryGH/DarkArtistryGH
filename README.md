@@ -1,7 +1,7 @@
 ### Hello 
 My name is Dark Artistry, aka ``Caera``, welcome to my git page.
 
-![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/Fn77gndX0AAZdYb.png)
+![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/1234.png)
 <!--
 **DarkArtistryGH/DarkArtistryGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
