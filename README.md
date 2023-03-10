@@ -1,7 +1,7 @@
 ### Hello 
 My name is Dark Artistry, aka ``Caera``, welcome to my git page.
 
-[![Steam](https://w7.pngwing.com/pngs/657/107/png-transparent-black-and-white-steam-icon-art-steam-computer-icons-similiar-discord-twitch-icon-miscellaneous-video-game-valve-corporation-thumbnail.png)](https://steamcommunity.com/id/Dark_Artistry/)
+[![Steam](https://img.shields.io/badge/-Steam-blue)](https://steamcommunity.com/id/Dark_Artistry/)
 
 
 ![alt text](https://github.com/DarkArtistryGH/DarkArtistryGH/blob/main/assets/1234.png)
