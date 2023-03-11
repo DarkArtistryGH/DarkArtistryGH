@@ -16,7 +16,6 @@ What program do I write code in?
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Python, JavaScript, Html5.</p>
 
 <hr>
 
